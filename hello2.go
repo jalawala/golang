@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  greeting1 "golang/greet"
+  greeting1 "github.com/jalawala/golang/greet"
   "time"
 )
 
